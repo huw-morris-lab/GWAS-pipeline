@@ -16,9 +16,11 @@ Full pipeline for running a GWAS. This covers:
 5. Results visualization
 
 Thank you to the Laboratory of Neurogenetics group at NIH. This pipeline is largely built on theirs.
+
 https://github.com/neurogenetics/GWAS-pipeline
 
 Recommend looking at these websites if you are not familiar with plink.
+
 http://zzz.bwh.harvard.edu/plink/
 https://www.cog-genomics.org/plink/
 
