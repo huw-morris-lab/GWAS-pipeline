@@ -15,6 +15,7 @@ Full pipeline for running a GWAS. This covers:
 4. Optional meta-analyses
 5. Results visualization
 
+
 Thank you to the Laboratory of Neurogenetics group at NIH. This pipeline is largely built on theirs.
 
 https://github.com/neurogenetics/GWAS-pipeline
